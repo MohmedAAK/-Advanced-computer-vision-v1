@@ -1,2 +1,2 @@
 # -Advanced-computer-vision-v1
-Course
+Course for master students focus on deep learning competitions
